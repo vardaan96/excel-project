@@ -5,4 +5,5 @@ The objective of this project was to create an annual sales report so that the s
 2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states.
 3. Old adults (30-49 years) make up half of the customers.
 4. 80% of the sales happen on amazon, myntra and flipkart.
+
 The store owner should target female customers of age 30-49 years living in Maharashtra, Karnataka and Uttar Pradesh by implementing marketing campaigns on amazon, myntra and flipkart.
